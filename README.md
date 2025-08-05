@@ -35,7 +35,6 @@
 
 - 🔗 [Weather App](https://github.com/Sanaullah487/weather-app)
 - 🔗 [Webhook System](https://github.com/Sanaullah487/webhook-system)
-- 🔗 [Afghan Post Rate Calculator](https://github.com/Sanaullah487/afghanpost-rate-calculator)
 - 🔗 [My Calculator](https://github.com/Sanaullah487/my-calculator)
 
 ---
@@ -44,5 +43,3 @@
 
 - Email: **safi.sanaullah33@gmail.com**
 - LinkedIn: [https://github.com/Sanaullah487]
-- Email: **sanaullah487@gmail.com**
-- LinkedIn: [Your LinkedIn URL here]
