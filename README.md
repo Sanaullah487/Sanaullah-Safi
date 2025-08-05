@@ -43,4 +43,4 @@
 ### 📫 Contact Me
 
 - Email: **safi.sanaullah33@gmail.com**
-- LinkedIn: [https://github.com/Sanaullah487]
+- LinkedIn: [www.linkedin.com/in/sanaullah-safi-0781a4342]
