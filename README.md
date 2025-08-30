@@ -15,8 +15,8 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Frontend: `HTML`, `CSS`, `TailwindCSS`,`Boostrape` `JavaScript`, `React.js`
-- ⚙️ Backend: `PHP`, `Laravel`, `REST APIs`, `Livewire`
+- 💻 Frontend: `HTML`, `CSS`, `TailwindCSS`,`Boostrape` `JavaScript`, `React.js`,`Angular`
+- ⚙️ Backend: `PHP`, `Laravel`, `REST APIs`, `Livewire`, `Java`, `Springboot`
 - 🧠 Currently Learning: `TypeScript`, `Advanced Laravel`, `Git`, `Webhooks`
 - 🗄️ Databases: `MySQL`, `SQLite`, `postgrsql`
 
